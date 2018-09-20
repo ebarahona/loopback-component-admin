@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "loopback": "^2.26.0",
-    "loopback-sdk-angular": "^1.6.0"
+    "loopback-sdk-angular": "^3.4.0"
   }
 }
